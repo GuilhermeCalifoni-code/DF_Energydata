@@ -4,6 +4,13 @@
 
 Este projeto consiste em uma coleção de análises de machine learning focadas no setor de energia. Utilizando um Jupyter Notebook, foram explorados quatro datasets distintos para resolver problemas de regressão e classificação. Os objetivos variam desde a previsão de consumo de energia e potência gerada por fontes renováveis até a classificação da estabilidade de redes elétricas inteligentes e níveis de radiação solar.
 
+## 👥 Membros
+
+-   **Antonio Lucas Santana Tavares** - RM: 565516
+-   **Guilherme Domingues Califoni** - RM: 565157
+-   **Rafael Silva Oliveira Nascimento** - RM: 565415
+-   **Rafael Passos de Mendonça** - RM: 563075
+
 ## 📖 Índice
 
 - [Análises Realizadas](#-análises-realizadas)
